@@ -1,0 +1,31 @@
+@media screen and (min-width: 768px) {
+  .image-profile {
+    max-width: 160px;
+  }
+
+  h3 {
+    font-size: 24px;
+    line-height: 29px;
+  }
+
+  h4 {
+    font-size: 18px;
+    line-height: 21px;
+  }
+
+  .item p {
+    font-size: 14px;
+    line-height: 17px;
+  }
+
+  .item {
+    width: 100px;
+    height: 67px;
+    padding-top: 11px;
+  }
+
+  .profile p {
+    font-size: 14px;
+    line-height: 17px;
+  }
+}
